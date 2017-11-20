@@ -1,5 +1,5 @@
-# tailRecursion-in-scala
-Tail Recursion in scala:
+# Tail Recursion in scala:
+
 
 If a function calls itself as it's last action, the function's stack frame can be reused. This is known as Tail recursion. Tail recursion functions are iterative process.
 
