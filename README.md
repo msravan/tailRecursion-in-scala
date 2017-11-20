@@ -7,4 +7,7 @@ In general, if the last action of a function consists of calling a function (whi
 Such type of calls are called tail calls.
 
 This is to provide an example that any recursion in scala can be turned into a tail recursion. There are two programs on how to caluculate the factorial if a number, first prigram shows how to calluclate factorial using recursion.
-Second program shows the tail recursion version of how to calluculate the factorial.
+Second program shows the tail recursion version of how to calculate the factorial.
+
+I observed a time difference of 10 to 18 milliseconds. Tail recursion is faster.
+
